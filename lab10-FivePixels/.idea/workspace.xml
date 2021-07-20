@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="lab10" targetName="gmock" />
+      <config projectName="lab10" targetName="lab10" />
+      <config projectName="lab10" targetName="gmock_main" />
+      <config projectName="lab10" targetName="gtest_main" />
+      <config projectName="lab10" targetName="lab10Demo" />
+      <config projectName="lab10" targetName="gtest" />
+      <config projectName="lab10" targetName="lab10Test" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aab765fa-f613-4418-b17d-c3b59c7e47f2" name="Default Changelist" comment="" />
+    <list id="f4e53063-bbc0-48bb-b009-4433e88a5704" name="Revert &quot;Complete Lab10.&quot;" comment="Revert &quot;Complete Lab10.&quot;&#10;&#10;This reverts commit dcae246f" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Pull.Settings">
+    <option name="BRANCH" value="master" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="develop" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jqAn2Nk2GAnHGjLPL4R2o2rWYF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Google Test.lab10Test">
+    <configuration name="lab10Test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lab10" TARGET_NAME="lab10Test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lab10" RUN_TARGET_NAME="lab10Test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gmock" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lab10" TARGET_NAME="gmock" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gmock_main" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lab10" TARGET_NAME="gmock_main" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gtest" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lab10" TARGET_NAME="gtest" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gtest_main" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lab10" TARGET_NAME="gtest_main" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lab10" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lab10" TARGET_NAME="lab10" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lab10" RUN_TARGET_NAME="lab10">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lab10Demo" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lab10" TARGET_NAME="lab10Demo" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lab10" RUN_TARGET_NAME="lab10Demo">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Google Test.lab10Test" />
+      <item itemvalue="CMake Application.gmock" />
+      <item itemvalue="CMake Application.gmock_main" />
+      <item itemvalue="CMake Application.gtest" />
+      <item itemvalue="CMake Application.gtest_main" />
+      <item itemvalue="CMake Application.lab10Demo" />
+      <item itemvalue="CMake Application.lab10" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aab765fa-f613-4418-b17d-c3b59c7e47f2" name="Default Changelist" comment="" />
+      <created>1604521412847</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604521412847</updated>
+      <workItem from="1604521414907" duration="1169000" />
+      <workItem from="1604698134628" duration="2993000" />
+      <workItem from="1604970856890" duration="719000" />
+      <workItem from="1605662232682" duration="163000" />
+      <workItem from="1605667109432" duration="85000" />
+    </task>
+    <task id="LOCAL-00001" summary="Complete Lab10.">
+      <created>1604723325230</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604723325230</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Complete Lab10." />
+    <option name="LAST_COMMIT_MESSAGE" value="Complete Lab10." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="545" y="98" key="CommitChangelistDialog2" timestamp="1604723368519">
+      <screen x="0" y="23" width="1920" height="1004" />
+    </state>
+    <state x="545" y="98" key="CommitChangelistDialog2/0.23.1920.1004@0.23.1920.1004" timestamp="1604723368519" />
+    <state width="1878" height="336" key="GridCell.Tab.0.bottom" timestamp="1604974244946">
+      <screen x="0" y="23" width="1920" height="1004" />
+    </state>
+    <state width="1878" height="336" key="GridCell.Tab.0.bottom/0.23.1920.1004@0.23.1920.1004" timestamp="1604974244946" />
+    <state width="1878" height="336" key="GridCell.Tab.0.center" timestamp="1604974244946">
+      <screen x="0" y="23" width="1920" height="1004" />
+    </state>
+    <state width="1878" height="336" key="GridCell.Tab.0.center/0.23.1920.1004@0.23.1920.1004" timestamp="1604974244946" />
+    <state width="1878" height="336" key="GridCell.Tab.0.left" timestamp="1604974244945">
+      <screen x="0" y="23" width="1920" height="1004" />
+    </state>
+    <state width="1878" height="336" key="GridCell.Tab.0.left/0.23.1920.1004@0.23.1920.1004" timestamp="1604974244945" />
+    <state width="1878" height="336" key="GridCell.Tab.0.right" timestamp="1604974244946">
+      <screen x="0" y="23" width="1920" height="1004" />
+    </state>
+    <state width="1878" height="336" key="GridCell.Tab.0.right/0.23.1920.1004@0.23.1920.1004" timestamp="1604974244946" />
+    <state width="1878" height="336" key="GridCell.Tab.1.bottom" timestamp="1604974244948">
+      <screen x="0" y="23" width="1920" height="1004" />
+    </state>
+    <state width="1878" height="336" key="GridCell.Tab.1.bottom/0.23.1920.1004@0.23.1920.1004" timestamp="1604974244948" />
+    <state width="1878" height="336" key="GridCell.Tab.1.center" timestamp="1604974244947">
+      <screen x="0" y="23" width="1920" height="1004" />
+    </state>
+    <state width="1878" height="336" key="GridCell.Tab.1.center/0.23.1920.1004@0.23.1920.1004" timestamp="1604974244947" />
+    <state width="1878" height="336" key="GridCell.Tab.1.left" timestamp="1604974244947">
+      <screen x="0" y="23" width="1920" height="1004" />
+    </state>
+    <state width="1878" height="336" key="GridCell.Tab.1.left/0.23.1920.1004@0.23.1920.1004" timestamp="1604974244947" />
+    <state width="1878" height="336" key="GridCell.Tab.1.right" timestamp="1604974244947">
+      <screen x="0" y="23" width="1920" height="1004" />
+    </state>
+    <state width="1878" height="336" key="GridCell.Tab.1.right/0.23.1920.1004@0.23.1920.1004" timestamp="1604974244947" />
+    <state x="724" y="234" key="RollbackChangesDialog" timestamp="1604970941448">
+      <screen x="0" y="23" width="1920" height="1004" />
+    </state>
+    <state x="724" y="234" key="RollbackChangesDialog/0.23.1920.1004@0.23.1920.1004" timestamp="1604970941448" />
+    <state x="469" y="164" key="SettingsEditor" timestamp="1604700603514">
+      <screen x="0" y="23" width="1920" height="1004" />
+    </state>
+    <state x="469" y="164" key="SettingsEditor/0.23.1920.1004@0.23.1920.1004" timestamp="1604700603514" />
+    <state x="813" y="445" key="VCS.ChangelistChooser" timestamp="1604723380093">
+      <screen x="0" y="23" width="1920" height="1004" />
+    </state>
+    <state x="813" y="445" key="VCS.ChangelistChooser/0.23.1920.1004@0.23.1920.1004" timestamp="1604723380093" />
+    <state x="560" y="265" key="Vcs.Push.Dialog.v2" timestamp="1604723405902">
+      <screen x="0" y="23" width="1920" height="1004" />
+    </state>
+    <state x="560" y="265" key="Vcs.Push.Dialog.v2/0.23.1920.1004@0.23.1920.1004" timestamp="1604723405902" />
+    <state x="773" y="446" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604970946216">
+      <screen x="0" y="23" width="1920" height="1004" />
+    </state>
+    <state x="773" y="446" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1920.1004@0.23.1920.1004" timestamp="1604970946216" />
+  </component>
+</project>

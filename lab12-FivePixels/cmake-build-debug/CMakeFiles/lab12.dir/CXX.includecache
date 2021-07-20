@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/csc232.h
+cstdlib
+-
+iomanip
+-
+iostream
+-
+cassert
+-
+utility
+-
+vector
+-
+expanded_templates.h
+../include/expanded_templates.h
+
+../include/expanded_templates.h
+
+/Users/dylanbolger/CLionProjects/lab12-FivePixels/src/main.cpp
+csc232.h
+/Users/dylanbolger/CLionProjects/lab12-FivePixels/src/csc232.h
+

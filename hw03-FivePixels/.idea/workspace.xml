@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="hw03" targetName="gmock_main" />
+      <config projectName="hw03" targetName="hw03Test" />
+      <config projectName="hw03" targetName="gtest_main" />
+      <config projectName="hw03" targetName="hw03Demo" />
+      <config projectName="hw03" targetName="gtest" />
+      <config projectName="hw03" targetName="hw03" />
+      <config projectName="hw03" targetName="gmock" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2d779c8b-de6f-49b5-84b8-418d9443f374" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kRddX7OZRquA6Vc1OVVZ5vZP5E" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+  </component>
+  <component name="RunManager" selected="Google Test.hw03Test">
+    <configuration name="hw03Test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hw03" TARGET_NAME="hw03Test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="hw03" RUN_TARGET_NAME="hw03Test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gmock" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hw03" TARGET_NAME="gmock" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gmock_main" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hw03" TARGET_NAME="gmock_main" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gtest" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hw03" TARGET_NAME="gtest" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gtest_main" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hw03" TARGET_NAME="gtest_main" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hw03" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hw03" TARGET_NAME="hw03" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="hw03" RUN_TARGET_NAME="hw03">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hw03Demo" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hw03" TARGET_NAME="hw03Demo" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="hw03" RUN_TARGET_NAME="hw03Demo">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Google Test.hw03Test" />
+      <item itemvalue="CMake Application.gmock" />
+      <item itemvalue="CMake Application.gmock_main" />
+      <item itemvalue="CMake Application.gtest" />
+      <item itemvalue="CMake Application.gtest_main" />
+      <item itemvalue="CMake Application.hw03Demo" />
+      <item itemvalue="CMake Application.hw03" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2d779c8b-de6f-49b5-84b8-418d9443f374" name="Default Changelist" comment="" />
+      <created>1605667425436</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605667425436</updated>
+      <workItem from="1605667426646" duration="3049000" />
+      <workItem from="1605749128326" duration="5480000" />
+      <workItem from="1605758479784" duration="155000" />
+      <workItem from="1605890286148" duration="8000" />
+    </task>
+    <task id="LOCAL-00001" summary="Complete Part 1.">
+      <created>1605758637384</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605758637384</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Complete Part 1." />
+    <option name="LAST_COMMIT_MESSAGE" value="Complete Part 1." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="894" height="287" key="GridCell.Tab.0.bottom" timestamp="1605757866673">
+      <screen x="0" y="25" width="1870" height="1055" />
+    </state>
+    <state width="894" height="287" key="GridCell.Tab.0.bottom/0.25.1870.1055@0.25.1870.1055" timestamp="1605757866673" />
+    <state width="894" height="287" key="GridCell.Tab.0.bottom/0.25.1872.1055@0.25.1872.1055" timestamp="1605752310621" />
+    <state width="918" height="287" key="GridCell.Tab.0.bottom/0.25.1920.1055@0.25.1920.1055" timestamp="1605668350764" />
+    <state width="894" height="287" key="GridCell.Tab.0.center" timestamp="1605757866673">
+      <screen x="0" y="25" width="1870" height="1055" />
+    </state>
+    <state width="894" height="287" key="GridCell.Tab.0.center/0.25.1870.1055@0.25.1870.1055" timestamp="1605757866673" />
+    <state width="894" height="287" key="GridCell.Tab.0.center/0.25.1872.1055@0.25.1872.1055" timestamp="1605752310620" />
+    <state width="918" height="287" key="GridCell.Tab.0.center/0.25.1920.1055@0.25.1920.1055" timestamp="1605668350763" />
+    <state width="894" height="287" key="GridCell.Tab.0.left" timestamp="1605757866672">
+      <screen x="0" y="25" width="1870" height="1055" />
+    </state>
+    <state width="894" height="287" key="GridCell.Tab.0.left/0.25.1870.1055@0.25.1870.1055" timestamp="1605757866672" />
+    <state width="894" height="287" key="GridCell.Tab.0.left/0.25.1872.1055@0.25.1872.1055" timestamp="1605752310620" />
+    <state width="918" height="287" key="GridCell.Tab.0.left/0.25.1920.1055@0.25.1920.1055" timestamp="1605668350763" />
+    <state width="894" height="287" key="GridCell.Tab.0.right" timestamp="1605757866673">
+      <screen x="0" y="25" width="1870" height="1055" />
+    </state>
+    <state width="894" height="287" key="GridCell.Tab.0.right/0.25.1870.1055@0.25.1870.1055" timestamp="1605757866673" />
+    <state width="894" height="287" key="GridCell.Tab.0.right/0.25.1872.1055@0.25.1872.1055" timestamp="1605752310621" />
+    <state width="918" height="287" key="GridCell.Tab.0.right/0.25.1920.1055@0.25.1920.1055" timestamp="1605668350764" />
+    <state x="1002" y="289" key="Vcs.Push.Dialog.v2" timestamp="1605758642774">
+      <screen x="0" y="25" width="1870" height="1055" />
+    </state>
+    <state x="1002" y="289" key="Vcs.Push.Dialog.v2/0.25.1870.1055@0.25.1870.1055" timestamp="1605758642774" />
+  </component>
+</project>

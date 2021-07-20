@@ -1,0 +1,24 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/dylanbolger/CLionProjects/hw06-FivePixels
+Compiler: Clang
+CMAKE_CXX_FLAGS = -Wall -Wno-long-long -pedantic -g -std=c++14
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/dylanbolger/CLionProjects/hw06-FivePixels/cmake-build-debug/googletest-download
+[ 11%] Performing update step for 'googletest'
+From https://github.com/google/googletest
+   141e9594..93748a94  master     -> origin/master
+ * [new branch]        E407F9616669E7EFE7B52726DC0C1039 -> origin/E407F9616669E7EFE7B52726DC0C1039
+ + 9ecde838...db150ebe E5E9B92DC71B262387A82177344D43FD -> origin/E5E9B92DC71B262387A82177344D43FD  (forced update)
+First, rewinding head to replay your work on top of it...
+Fast-forwarded master to origin/master.
+[ 22%] No configure step for 'googletest'
+[ 33%] No build step for 'googletest'
+[ 44%] No install step for 'googletest'
+[ 55%] No test step for 'googletest'
+[ 66%] Completed 'googletest'
+[100%] Built target googletest
+-- Could NOT find Doxygen (missing: DOXYGEN_EXECUTABLE) 
+Doxygen need to be installed to generate the doxygen documentation
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/dylanbolger/CLionProjects/hw06-FivePixels/cmake-build-debug

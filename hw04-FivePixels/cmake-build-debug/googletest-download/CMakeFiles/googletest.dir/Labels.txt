@@ -1,0 +1,14 @@
+# Target labels
+ googletest
+# Source files and their labels
+/Users/dylanbolger/CLionProjects/hw04-FivePixels/cmake-build-debug/googletest-download/CMakeFiles/googletest
+/Users/dylanbolger/CLionProjects/hw04-FivePixels/cmake-build-debug/googletest-download/CMakeFiles/googletest.rule
+/Users/dylanbolger/CLionProjects/hw04-FivePixels/cmake-build-debug/googletest-download/CMakeFiles/googletest-complete.rule
+/Users/dylanbolger/CLionProjects/hw04-FivePixels/cmake-build-debug/googletest-download/googletest-prefix/src/googletest-stamp/googletest-install.rule
+/Users/dylanbolger/CLionProjects/hw04-FivePixels/cmake-build-debug/googletest-download/googletest-prefix/src/googletest-stamp/googletest-mkdir.rule
+/Users/dylanbolger/CLionProjects/hw04-FivePixels/cmake-build-debug/googletest-download/googletest-prefix/src/googletest-stamp/googletest-download.rule
+/Users/dylanbolger/CLionProjects/hw04-FivePixels/cmake-build-debug/googletest-download/googletest-prefix/src/googletest-stamp/googletest-update.rule
+/Users/dylanbolger/CLionProjects/hw04-FivePixels/cmake-build-debug/googletest-download/googletest-prefix/src/googletest-stamp/googletest-patch.rule
+/Users/dylanbolger/CLionProjects/hw04-FivePixels/cmake-build-debug/googletest-download/googletest-prefix/src/googletest-stamp/googletest-configure.rule
+/Users/dylanbolger/CLionProjects/hw04-FivePixels/cmake-build-debug/googletest-download/googletest-prefix/src/googletest-stamp/googletest-build.rule
+/Users/dylanbolger/CLionProjects/hw04-FivePixels/cmake-build-debug/googletest-download/googletest-prefix/src/googletest-stamp/googletest-test.rule

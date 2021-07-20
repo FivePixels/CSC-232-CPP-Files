@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:develop" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="lab08" targetName="gmock_main" />
+      <config projectName="lab08" targetName="gtest_main" />
+      <config projectName="lab08" targetName="gmock" />
+      <config projectName="lab08" targetName="lab08Test" />
+      <config projectName="lab08" targetName="gtest" />
+      <config projectName="lab08" targetName="lab08Demo" />
+      <config projectName="lab08" targetName="lab08" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b3722c9e-72c0-45eb-a701-1a6ce8c5b71c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="e55a0583-774e-4743-bbee-a37dbb569334" />
+  </component>
+  <component name="ProjectId" id="1jDCiw23XGuPQgjL1Oox1un4ERP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.advertisement.text.has.clang-format" value="true" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="CMake Application.lab08Demo">
+    <configuration name="lab08Test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lab08" TARGET_NAME="lab08Test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lab08" RUN_TARGET_NAME="lab08Test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gmock" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lab08" TARGET_NAME="gmock" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gmock_main" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lab08" TARGET_NAME="gmock_main" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gtest" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lab08" TARGET_NAME="gtest" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gtest_main" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lab08" TARGET_NAME="gtest_main" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lab08" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lab08" TARGET_NAME="lab08" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lab08" RUN_TARGET_NAME="lab08">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lab08Demo" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lab08" TARGET_NAME="lab08Demo" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lab08" RUN_TARGET_NAME="lab08Demo">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Google Test.lab08Test" />
+      <item itemvalue="CMake Application.gmock" />
+      <item itemvalue="CMake Application.gmock_main" />
+      <item itemvalue="CMake Application.gtest" />
+      <item itemvalue="CMake Application.gtest_main" />
+      <item itemvalue="CMake Application.lab08Demo" />
+      <item itemvalue="CMake Application.lab08" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b3722c9e-72c0-45eb-a701-1a6ce8c5b71c" name="Default Changelist" comment="" />
+      <created>1603329407754</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603329407754</updated>
+      <workItem from="1603329409885" duration="721000" />
+      <workItem from="1603483693321" duration="3336000" />
+      <workItem from="1603497593919" duration="2608000" />
+      <workItem from="1603500401932" duration="44000" />
+      <workItem from="1603733706505" duration="18000" />
+    </task>
+    <task id="LOCAL-00001" summary="Complete copy constructor.">
+      <created>1603495696582</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603495696582</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Complete Replace method, fix copy constructor.">
+      <created>1603500280998</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603500280998</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="develop" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Complete copy constructor." />
+    <MESSAGE value="Complete Replace method, fix copy constructor." />
+    <option name="LAST_COMMIT_MESSAGE" value="Complete Replace method, fix copy constructor." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1878" height="603" key="GridCell.Tab.0.bottom" timestamp="1603500284562">
+      <screen x="0" y="23" width="1920" height="992" />
+    </state>
+    <state width="1878" height="235" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1603329509625" />
+    <state width="1878" height="603" key="GridCell.Tab.0.bottom/0.23.1920.992@0.23.1920.992" timestamp="1603500284562" />
+    <state width="1878" height="603" key="GridCell.Tab.0.center" timestamp="1603500284561">
+      <screen x="0" y="23" width="1920" height="992" />
+    </state>
+    <state width="1878" height="235" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1603329509624" />
+    <state width="1878" height="603" key="GridCell.Tab.0.center/0.23.1920.992@0.23.1920.992" timestamp="1603500284561" />
+    <state width="1878" height="603" key="GridCell.Tab.0.left" timestamp="1603500284561">
+      <screen x="0" y="23" width="1920" height="992" />
+    </state>
+    <state width="1878" height="235" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1603329509624" />
+    <state width="1878" height="603" key="GridCell.Tab.0.left/0.23.1920.992@0.23.1920.992" timestamp="1603500284561" />
+    <state width="1878" height="603" key="GridCell.Tab.0.right" timestamp="1603500284561">
+      <screen x="0" y="23" width="1920" height="992" />
+    </state>
+    <state width="1878" height="235" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1603329509625" />
+    <state width="1878" height="603" key="GridCell.Tab.0.right/0.23.1920.992@0.23.1920.992" timestamp="1603500284561" />
+    <state width="1878" height="332" key="GridCell.Tab.1.bottom" timestamp="1603499755141">
+      <screen x="0" y="23" width="1920" height="992" />
+    </state>
+    <state width="1878" height="332" key="GridCell.Tab.1.bottom/0.23.1920.992@0.23.1920.992" timestamp="1603499755141" />
+    <state width="1878" height="332" key="GridCell.Tab.1.center" timestamp="1603499755141">
+      <screen x="0" y="23" width="1920" height="992" />
+    </state>
+    <state width="1878" height="332" key="GridCell.Tab.1.center/0.23.1920.992@0.23.1920.992" timestamp="1603499755141" />
+    <state width="1878" height="332" key="GridCell.Tab.1.left" timestamp="1603499755140">
+      <screen x="0" y="23" width="1920" height="992" />
+    </state>
+    <state width="1878" height="332" key="GridCell.Tab.1.left/0.23.1920.992@0.23.1920.992" timestamp="1603499755140" />
+    <state width="1878" height="332" key="GridCell.Tab.1.right" timestamp="1603499755141">
+      <screen x="0" y="23" width="1920" height="992" />
+    </state>
+    <state width="1878" height="332" key="GridCell.Tab.1.right/0.23.1920.992@0.23.1920.992" timestamp="1603499755141" />
+    <state x="469" y="158" key="SettingsEditor" timestamp="1603500389150">
+      <screen x="0" y="23" width="1920" height="992" />
+    </state>
+    <state x="469" y="158" key="SettingsEditor/0.23.1920.992@0.23.1920.992" timestamp="1603500389150" />
+    <state x="560" y="280" key="Vcs.Push.Dialog.v2" timestamp="1603500288817">
+      <screen x="0" y="23" width="1920" height="992" />
+    </state>
+    <state x="560" y="280" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1603329527799" />
+    <state x="560" y="280" key="Vcs.Push.Dialog.v2/0.23.1920.992@0.23.1920.992" timestamp="1603500288817" />
+  </component>
+</project>
